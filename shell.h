@@ -58,6 +58,10 @@ struct flags
 	bool interactive;
 } flags;
 
+#endif /* SHELL_H */
+
+#ifndef _SHELL_H_
+#define _SHELL_H_
 
 
 /**###### environ var ######*/
